@@ -53,14 +53,14 @@
         <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown user-menu">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">
-                    <img src="https://assets.infyom.com/logo/blue_logo_150x150.png"
+                    <img src="https://icon2.cleanpng.com/20180508/svq/kisspng-jakarta-state-university-universitas-gunadarma-ka-5af2146f769460.0572641915258143834857.jpg"
                          class="user-image img-circle elevation-2" alt="User Image">
                     <span class="d-none d-md-inline">{{ Auth::user()->name }}</span>
                 </a>
                 <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
                     <!-- User image -->
                     <li class="user-header bg-primary">
-                        <img src="https://assets.infyom.com/logo/blue_logo_150x150.png"
+                        <img src="https://icon2.cleanpng.com/20180508/svq/kisspng-jakarta-state-university-universitas-gunadarma-ka-5af2146f769460.0572641915258143834857.jpg"
                              class="img-circle elevation-2"
                              alt="User Image">
                         <p>
@@ -100,9 +100,8 @@
             <b>Version</b> 3.1.0
         </div>
         <strong>
-           Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.
+           Copyright &copy; 2022 <a href="https://adminlte.io">Indah </a>.
         </strong>
-        All rights reserved.
     </footer>
 </div>
 
